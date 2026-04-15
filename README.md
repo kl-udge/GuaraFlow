@@ -1,4 +1,4 @@
-# **GuaraFlow**: Smart Payments & Tracking for SACCOs
+# **GuaraFlow**
 
 ## Problem Statement
 In many SACCOs, members face challenges such as:
