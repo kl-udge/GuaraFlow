@@ -1,4 +1,4 @@
-# **GuaraFlow**
+# **Guara**
 
 ## Problem Statement
 In many SACCOs, members face challenges such as:
@@ -8,7 +8,7 @@ In many SACCOs, members face challenges such as:
 - **Limited Flexibility in Contributions**: Current systems don't allow for flexible contributions to specific items (e.g., savings, loan repayments).
 
 ## Goal
-To address these issues, **GuaraFlow** aims to develop a smart payment and tracking solution that integrates **Mpesa** and **stablecoins** to:
+To address these issues, **Guara** aims to develop a smart payment and tracking solution that integrates **Mpesa** and **stablecoins** to:
 1. **Streamline payments**: Allow members to contribute using Mpesa and stablecoins.
 2. **Track all transactions**: Ensure members can easily monitor savings, loans, and repayments.
 3. **Improve guarantor management**: Enable seamless identification of potential guarantors and provide visibility into the status of those you've guaranteed.
